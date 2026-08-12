@@ -5,3 +5,4 @@ passwords.txt
 **/*bak
 dir_/
 !important.log
+info.txt
