@@ -1,0 +1,8 @@
+db.sql
+passwords.txt
+*.log 
+*.tmp
+**/*bak
+dir_/
+info.txt
+!important.log
