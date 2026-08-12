@@ -1,0 +1,9 @@
+*.log is used for ignoring all the log files
+*.tmp is used for ignoring the temporary files
+*.cache is used for ignoring the cache files
+if you want to ignore the git to add the directory so just say as follows
+{name of the directory}/
+
+
+if you want he files insdie the directory to be ignored just run:
+**/*bak
