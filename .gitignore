@@ -1,5 +1,4 @@
 db.sql
-passwords.txt
 *.log 
 *.tmp
 **/*bak
