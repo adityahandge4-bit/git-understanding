@@ -7,3 +7,4 @@ if you want to ignore the git to add the directory so just say as follows
 
 if you want he files insdie the directory to be ignored just run:
 **/*bak
+# Change
